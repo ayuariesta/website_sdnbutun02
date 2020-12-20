@@ -1,0 +1,82 @@
+body {
+    color: #fff;
+    background-image: url('../images/background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;     /* Tambahkan baris berikut */
+}
+
+.carousel-item{
+    height: 600px;
+    width: 89%;
+    margin-left: 95px ;
+}
+
+.card{
+    margin-top: 10px;
+    margin-left: 95px ;
+    text-emphasis: none;
+}
+
+.card .card-text{
+    color: black;
+}
+
+.card .card-title{
+    color: black;
+}
+
+.card1{
+    margin-left: 1000px;
+    text-emphasis: none;
+}
+
+.card-2 .card-text{
+    color: black;
+}
+
+.card-2{
+    margin-top: -200px;
+    margin-left: 370px;
+}
+
+.card3{
+    margin-top: -390px;
+    margin-left: 1100px;
+}
+
+.cardperpus img{
+    margin-top: 20px;
+    height: 25%;
+}
+
+.cardperpus{
+    margin-top: 20px;
+    margin-left: 40px;
+    height: 200px;
+}
+
+.cardkantin img{
+    margin-top: 20px;
+    height: 12%;
+}
+
+.cardkantin{
+    margin-top: 60px;
+    margin-left: 600px;
+    height: 200px;
+}
+
+.cardkelas img{
+    margin-top: 20px;
+    height: 20%;
+}
+
+.cardkelas{
+    margin-top: 60px;
+    margin-left: 950px;
+    height: 200px;
+}
+
+.judul{
+    text-align: center;
+}
